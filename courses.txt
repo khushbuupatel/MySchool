@@ -1,0 +1,4 @@
+C082  Science       12
+C081  Mathematics  12
+C083  English      24
+C084  Technologies  6
