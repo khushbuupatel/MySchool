@@ -1,6 +1,6 @@
 # MySchool
 
-MySchool is a Java application for schools. The program reads from files specified in command line and stores them in 2D integer array. Below are the sample files.
+MySchool is a simple CLI java application which calculates students total credits, their average scores and their GPA. The program reads from files specified in command line and stores them in 2D integer array. Below are the sample files.
 
 ##### courses.txt
 <pre>
